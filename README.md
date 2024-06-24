@@ -1,10 +1,10 @@
 # CODETECH-Internship-Task-1 (Quiz Game)
 
-**Name** : Vatsal Singhal
-**Company** : CODETECH IT Solutions
-**ID** : CT4CPP2727
-**Domain** : C++
-**Duration** : June to July
+**Name** : Vatsal Singhal<br/>
+**Company** : CODETECH IT Solutions<br/>
+**ID** : CT4CPP2727<br/>
+**Domain** : C++<br/>
+**Duration** : June to July<br/>
 
 ## Overview
 This project is a simple console-based quiz game implemented in C++. The game asks the user a series of questions and calculates the score based on the user's answers.
